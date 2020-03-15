@@ -1,0 +1,66 @@
+* {
+    margin: 0;
+    outline: 0;
+    padding: 0;
+}
+
+.container {
+    width: 800px;
+    margin: 150px auto;
+}
+
+
+.box {
+    width: 300px;
+    height: 300px;
+    background-color: black;
+    transform: rotate(45deg);
+    position: relative;
+}
+
+.box1-box{
+    width: 100px;
+    height: 100px;
+    background-color: brown;
+    top: 40%;
+    left: 40%;
+    position: absolute;
+
+}
+
+.box2-box{
+    width: 100px;
+    height: 100px;
+    background-color: rgb(146, 228, 15);
+    top: 40%;
+    right: 80%;
+    position: absolute;
+}
+
+.box3-box{
+    width: 100px;
+    height: 100px;
+    background-color: rgb(228, 15, 43);
+    position: absolute;
+    top: 65%;
+    right: 65%;
+}
+
+.box4-box{
+    width: 100px;
+    height: 100px;
+    background-color: rgb(94, 4, 238);
+    position: absolute;
+    top: 10%;
+    right: 65%;
+}
+
+
+
+
+
+
+
+
+
+
